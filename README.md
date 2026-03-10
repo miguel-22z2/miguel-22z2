@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Opa, blz?</h1>
 
-<!--
-**miguel-22z2/miguel-22z2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">Meu nome é Miguel!</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde dos 10 anos<br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</p>
+
+###
+
+<h2 align="left">Programo com:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
