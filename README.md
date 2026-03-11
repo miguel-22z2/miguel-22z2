@@ -1,29 +1,21 @@
-<h1 align="left">Opa, beleza?</h1>
+# 💫 About Me:
+🔭 Learning java and git<br>😎 Programming from the age of 10<br>🌱 Goal: be a good programmer
 
-###
 
-<p align="left"></p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelalessilenzi@icloud.com) 
 
-###
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=miguel-22z2&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=miguel-22z2&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-22z2&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">Meu nome é Miguel!</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=miguel-22z2&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="left">✨ Programando desde dos 10 anos<br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</p>
-
-###
-
-<h2 align="left">Programo com:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
