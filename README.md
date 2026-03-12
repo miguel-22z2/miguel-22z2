@@ -1,4 +1,4 @@
-<h2 align="left">Opa, blz?</h2>
+<h1 align="left">Opa, beleza?</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">Meu nome é Miguel!</h2>
+<h1 align="center">Meu nome é Miguel!</h1>
 
 ###
 
-<p align="left">✨ Programando desde dos 10 anos<br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</p>
+<h6 align="left">✨ Programando desde dos 10 anos<br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</h6>
 
 ###
 
@@ -29,14 +29,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguel-22z2/miguel-22z2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguel-22z2/miguel-22z2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miguel-22z2/miguel-22z2/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
