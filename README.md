@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨ Programando desde dos 10 anos<br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</h6>
+<h6 align="left"><br>📚 No momento estou aprendendo Java e algumas coisas de desenvolvimento web<br>🎯 Meta: Ser um bom programador</h6>
 
 ###
 
