@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Principal Stacks</h2>
+<h2 data-importer="text" align="left">Stacks</h2>
 
 ###
 
