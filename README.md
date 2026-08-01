@@ -6,7 +6,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">A small developer</h6>
+<h3 data-importer="text" align="left">A small developer</h3>
 
 ###
 
